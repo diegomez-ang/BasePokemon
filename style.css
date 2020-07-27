@@ -1,0 +1,28 @@
+*{
+    background-color:#FDC00C;
+    font-family: 'Signika', sans-serif;
+}
+.principal{
+    margin: 100px 0px;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
+.items{
+    margin-top: 100px;
+    width: 50%;
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+a{    
+    font-size: xx-large;
+    text-decoration: none;
+    color: #151B4A;
+    cursor: pointer;
+}
+
+a:hover{
+    transform: scale(1.5);
+    transition: 450ms all;
+}

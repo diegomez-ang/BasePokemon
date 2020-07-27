@@ -1,0 +1,14 @@
+*{
+    padding: 0 px!important;
+    margin: 0 px!important;
+    
+}
+
+h1{
+    margin-top: 40px !important;
+    text-align: center !important;
+}
+.table-dark td, .table-dark th, .table-dark thead th {
+    width: 50% !important;
+    margin: 30px;
+}
